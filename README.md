@@ -13,8 +13,8 @@ Hi there! I'm a web and app developer with a passion for creating beautiful and 
 * ⚡  I'm also a music producer :)
 
 <a href="https://www.github.com/diptanshumahish" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diptanshumahish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Diptanshumahish5" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Diptanshumahish5?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/diptanshumahish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DiptanshuMahis5" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/DiptanshuMahish?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills

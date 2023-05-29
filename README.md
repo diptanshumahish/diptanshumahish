@@ -1,6 +1,5 @@
 # Hi ✨ I'm  Diptanshu Mahish
 ![Diptanshu Mahish](https://diptanshumahish.me/readme.png)
-and I am a
 ### Web Developer | App Developer | UI/UX Designer
 
 

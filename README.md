@@ -1,5 +1,5 @@
 # Hi ✨ I'm  Diptanshu Mahish
-
+![Diptanshu Mahish](https://i.ibb.co/86Pcj8T/background.png) 
 and I am a
 ### Web Developer | App Developer | UI/UX Designer
 

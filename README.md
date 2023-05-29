@@ -1,16 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diptanshu Mahish
-========================================================================================================================================
+# Hi ✨ I'm  Diptanshu Mahish
 
-Web Developer | App Developer | UI/UX Designer
-----------------------------------------------
+and I am a
+### Web Developer | App Developer | UI/UX Designer
+
 
 Hi there! I'm a web and app developer with a passion for creating beautiful and user-friendly interfaces. As a UI/UX designer, I prioritize the user's experience above all else. I specialize in using Next.js and React.js for web development and Flutter for app development. I have experience in building responsive, scalable, and performant applications that cater to different user needs. I also love to experiment with new technologies and explore different design patterns to find the best fit for each project. When I'm not coding or designing, you can find me listening to music , reading a book, or trying out new comics. If you're interested in working together, feel free to reach out and let's build something amazing!
 
 * 🌍  I'm based in Kolkata, India
-* ✉️  You can contact me at [diptanshumahish2016@gmail.com](mailto:diptanshumahish2016@gmail.com)
+* 😊  Visit my portfolio website at https://diptanshumahish.me 
+* ✉️  You can contact me at [diptanshumahish2016@gmail.com](mailto:diptanshumahish2016@gmail.com)
 * 🧠  I'm learning advanced NextJS with TS and Flutter
 * 🤝  I'm open to collaborating on Web and App
 * ⚡  I'm also a music producer :)
+
+## Portfolio Website 
+**Check out my portfolio website**
+✨[**Portfolio Website**](https://diptanshumahish.me) 
 
 <a href="https://www.github.com/diptanshumahish" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/diptanshumahish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DiptanshuMahis5" target="_blank" rel="noreferrer"><img

@@ -1,5 +1,5 @@
 # Hi ✨ I'm  Diptanshu Mahish
-![Diptanshu Mahish](https://diptanshumahish.me/readme.png)
+![Diptanshu Mahish](https://diptanshumahish.in/readme.png)
 ### Web Developer | App Developer | UI/UX Designer
 
 
@@ -14,7 +14,7 @@ Hi there! I'm a web and app developer with a passion for creating beautiful and 
 
 ## Portfolio Website 
 **Check out my portfolio website**
-✨[**Portfolio Website**](https://diptanshumahish.me) 
+✨[**Portfolio Website**](https://diptanshumahish.in) 
 
 <a href="https://www.github.com/diptanshumahish" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/diptanshumahish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DiptanshuMahis5" target="_blank" rel="noreferrer"><img

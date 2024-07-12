@@ -16,10 +16,11 @@ Hi there! I'm a web and app developer with a passion for creating beautiful and 
 **Check out my portfolio website**
 ✨[**Portfolio Website**](https://diptanshumahish.in) 
 
-<a href="https://www.github.com/diptanshumahish" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diptanshumahish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DiptanshuMahis5" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DiptanshuMahish?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptanshumahish&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+
 
 ### Skills
 

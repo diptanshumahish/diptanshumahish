@@ -58,7 +58,7 @@ Hi there! I'm a web and app developer with a passion for creating beautiful and 
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diptanshumahish&theme=tokyonight" alt="mystreak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=diptanshumahish&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/diptanshumahish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptanshumahish&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
